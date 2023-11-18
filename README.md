@@ -83,7 +83,3 @@ identify_string : returns pointer with folder address.
 prompt : infinite loop with fork to keep prompt going. 
 controlC: avoid program closing when pressing ctrl + c. 
 main: initialize program.
-
-## Authors
-- Norris Selorm Bedzo | bedzon@ieee.org
-- Jonathan Abayie Boahene | jonathanboahene@gmail.com
